@@ -1,1 +1,3 @@
 Fichero2
+Primera línea añadida en el fichero2
+Segunda línea añadida en el fichero2
